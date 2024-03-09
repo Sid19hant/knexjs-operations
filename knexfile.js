@@ -3,7 +3,7 @@ module.exports = {
   connection: {
     host: 'localhost',
     user: 'root',
-    password: '2211',
+    password: 'XXXX',
     database: 'new_schema'
   },
   migrations: {
